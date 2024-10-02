@@ -30,7 +30,7 @@
         <a href=https://saemmeas-coding.tistory.com> <img
                 src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://saemmeas-coding.tistory.com">
         </a>
-        <a href="mailto:sweeet0308@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sweeet03080@gmail.com"/></a>
+        <a href="mailto:sweeet0308@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sweeet03080@gmail.com"/></a>
     </div> <br>
     <div style="text-align: left;"> </div>
 </div>
